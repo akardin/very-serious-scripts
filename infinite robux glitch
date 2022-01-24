@@ -1,6 +1,0 @@
-game:GetService("UserInputService").InputBegan:connect(function(InputObject, gameProcessedEvent)
-        if InputObject.Keycode == Enum.KeyCode.K then
-            game.Players.LocalPlayer:Kick("ur a nigger")
-        end
-    end)
-
